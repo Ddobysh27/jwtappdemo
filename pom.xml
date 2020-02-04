@@ -14,6 +14,8 @@
     <name>JwtAppDemo</name>
     <description>JWT based spring security REST API</description>
 
+    <packaging>war</packaging>
+
     <properties>
         <java.version>1.8</java.version>
 <!--        -->
